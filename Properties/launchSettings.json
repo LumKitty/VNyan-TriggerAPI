@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VNyanAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "-t _apitest -a 69 -b 420 -d \"test 1\" -e \"test 2\" -v"
+    }
+  }
+}
